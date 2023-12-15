@@ -20,9 +20,9 @@ Qwiic_Large_OLED_Py
 	
 </p>
 
-<!-- <img src="" align="right" width=200 alt="128 x 64 OLED Display"> -->
+<img src="https://cdn.sparkfun.com//assets/parts/2/3/7/6/0/23453-Qwiic-OLED-Feature-WithDisplay.jpg" align="right" width=200 alt="SparkFun Qwiic OLED Display - (1.3in., 128x64)">
 
-The Python package for the [Qwiic OLED Display](https://www.sparkfun.com/products/17153) board.
+The Python package for the [Qwiic OLED - (1.3in., 128x64)](https://www.sparkfun.com/products/23453) board.
 
 This package is a port of the [SparkFun Micro OLED Breakout Arduino Library](https://github.com/sparkfun/SparkFun_Micro_OLED_Arduino_Library)
 
@@ -92,7 +92,7 @@ pip install sparkfun_oled_display-<version>.tar.gz
   
 Example Use
 ------------
-This example is intended to be used with the [Qwiic OLED Display](https://www.sparkfun.com/products/17153) board. (See the <a href="https://github.com/sparkfun/Qwiic_Large_OLED_Py/tree/main/examples">examples directory</a> for more detailed use cases.)
+This example is intended to be used with the [Qwiic OLED - (1.3in., 128x64)](https://www.sparkfun.com/products/23453) board. (See the <a href="https://github.com/sparkfun/Qwiic_Large_OLED_Py/tree/main/examples">examples directory</a> for more detailed use cases.)
 
 ```python
 import qwiic_large_oled
